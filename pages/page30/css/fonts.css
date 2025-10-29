@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Charter';
+    src:
+         url('../fonts/Charter.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'CharterITCCom-Black';
+    src:
+         url('../fonts/CharterITCCom-Black.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'CharterITCCom-BlackItalic';
+    src:
+         url('../fonts/CharterITCCom-BlackItalic.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'CharterITCCom-Bold';
+    src:
+         url('../fonts/CharterITCCom-Bold.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'CharterITCCom-BoldItalic';
+    src:
+         url('../fonts/CharterITCCom-BoldItalic.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'CharterITCCom-Italic';
+    src:
+         url('../fonts/CharterITCCom-Italic.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'CharterITCCom-Regular';
+    src:
+         url('../fonts/CharterITCCom-Regular.ttf') format('truetype'),
+}
